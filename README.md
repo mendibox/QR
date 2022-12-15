@@ -10,27 +10,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-    - [HTML](#html)
-    - [CSS](#css)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 The challenge is to display correctly a QR code component. The solution is optimized for devices 375px width and desktop devices 1440px width.
 
 ### Screenshots
-
+**Desktop view**
 ![](./images/Desktop.png)
+**Mobile view**
 ![](./images/Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-peTeieZxSq)
-- Live Site URL: [Add live site URL here](https://mendibox.github.io/QR/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-peTeieZxSq](https://www.frontendmentor.io/solutions/qr-code-component-peTeieZxSq)
+- Live Site URL: [https://mendibox.github.io/QR/](https://mendibox.github.io/QR/)
 
 ## My process
 
@@ -42,12 +39,12 @@ The challenge is to display correctly a QR code component. The solution is optim
 
 ### What I learned
 
-#### HTML
+**HTML**
 
 - Included the meta tag to make the solution responsive.
 - How to add fonts from Google.
 
-#### CSS
+**CSS**
 
 - CSS selectors.
 - Relative and absolute lengths based on device viewport.
