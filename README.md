@@ -21,7 +21,9 @@ The challenge is to display correctly a QR code component. The solution is optim
 ### Screenshots
 **Desktop view**
 ![](./images/Desktop.png)
+
 **Mobile view**
+
 ![](./images/Mobile.png)
 
 ### Links
