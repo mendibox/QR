@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-The challenge is to display correctly a QR code component. The solution is optimized for devices 375px width and desktop devices 1440px width.
+The challenge is to display a QR code component correctly in any device. The solution is optimized for devices 375px width and desktop devices 1440px width.
 
 ### Screenshots
 **Desktop view**
@@ -38,6 +38,7 @@ The challenge is to display correctly a QR code component. The solution is optim
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+- Responsive design
 
 ### What I learned
 
@@ -50,7 +51,7 @@ The challenge is to display correctly a QR code component. The solution is optim
 
 - CSS selectors.
 - Relative and absolute lengths based on device viewport.
-- Media queries.
+- Flex technique.
 
 ### Continued development
 
