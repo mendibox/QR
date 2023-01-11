@@ -1,7 +1,7 @@
 .attribution {
-    font-size: 1rem;
+    font-size: 0.9rem;
     text-align: center;
-    margin-bottom: 2vh;
+    margin-bottom: 3vh;
 }
 
 .attribution a {
@@ -12,38 +12,37 @@
 body {
     background-color: hsl(212, 45%, 89%);
     margin: 0;
-    font-family: 'Outfit', Arial, sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 .flex-container {
     display: flex;
-    justify-content: center;    
+    justify-content: center;
 }
 
 .component-background {
-    max-width: 300px;
+    width: 17.21875em;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 20px;
-    margin: 20vh 7vw;
-    padding: 15px;
+    border-radius: 1em;
+    margin: 15vh 7vw;
+    padding: 1em;
 }
 
 .qr-code {
-    border-radius: 10px;
+    border-radius: 0.7em;
     width: 100%;
 }
 
 h1 {
     color: hsl(218, 44%, 22%);
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.4rem;
     font-weight: 700;
 }
 
 p {
     color: hsl(214, 6%, 57%);
     text-align: center;
-    font-size: 1em;
+    font-size: 1rem;
     font-weight: 400;
-    padding: 0 10px;
 }
