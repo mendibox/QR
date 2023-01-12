@@ -16,7 +16,9 @@ body {
 }
 
 .flex-container {
+    min-height: 100vh;
     display: flex;
+    align-items: center;
     justify-content: center;
 }
 
@@ -24,7 +26,6 @@ body {
     width: 17.21875em;
     background-color: hsl(0, 0%, 100%);
     border-radius: 1em;
-    margin: 15vh 7vw;
     padding: 1em;
 }
 
